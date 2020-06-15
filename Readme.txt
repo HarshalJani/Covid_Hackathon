@@ -4,7 +4,7 @@ Medical Inventory/Health Professionals Catalog:
       
 Problem Statement:
 Most of the hospitals are usually short on medical equipment for COVID19 and they face trouble in collaborating with different vendors to get their equipment for example syringes, PPE, Masks etc.
-We are looking to provide an overall view via a dashboard to the vendors/sellers, so that the shortfall of requirements can be met. 
+We are looking to provide an expedited means of delivery via a dashboard to the vendors/sellers, so that the shortfall of requirements can be met. 
 
 Solution:
 We are planning to come up with a catalog of items from different sellers who are close to the hospital/ medical facility in their county/city. Hence there will be a reduction in the turnaround of acquiring the medical equipment.
