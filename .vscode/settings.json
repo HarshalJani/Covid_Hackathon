@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:Covid_Hackathon}/db.sqlite3",
+            "driver": "SQLite",
+            "group": "hackathon",
+            "name": "hackathon",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
