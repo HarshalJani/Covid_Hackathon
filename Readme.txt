@@ -1,6 +1,6 @@
 Please read below our Project Idea:
 
-Medical Inventory/Professional Catalog:
+Medical Inventory/Health Professionals Catalog:
       
 Problem Statement:
 Most of the hospitals are usually short on medical equipment for COVID19 and they face trouble in collaborating with different vendors to get their equipment for example syringes, PPE, Masks etc.
