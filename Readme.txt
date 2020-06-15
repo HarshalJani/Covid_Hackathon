@@ -7,9 +7,7 @@ Most of the hospitals are usually short on medical equipment for COVID-19 and th
 We are looking to provide an expedited means of delivery via a dashboard to the vendors/sellers, so that the shortfall of requirements can be met. 
 
 Solution:
-We are planning to come up with a catalog of items from different sellers who are close to the hospital/ medical facility in their county/city. Hence there will be a reduction in the turnaround of acquiring the medical equipment.
-In this manner the delivery will be much faster than it usually is. 
-Our web interface will be to order and keep a record of medical equipment and there shall be an alerting system in place which alerts when an item is falling short of availability by maitaining certain threshold(eg. <20 items).
+We are planning to come up with a catalog of items from different sellers who are close to the hospital/ medical facility in their county/city. Hence there will be a reduction in the turnaround of acquiring the medical equipment. In this manner the delivery will be much faster than it usually is. Our web interface shall keep a record of all the medical equipment and there shall be an alerting system in place which alerts when an item is falling short of availability by maitaining certain threshold.
 
 We are focussing on two broad category of users: 
 1.People who require equipment (Hospitals/ Medical staff - Admin) and can post their requirements on the portal.
