@@ -16,6 +16,14 @@ class SellerInfo(models.Model):
     def __str__(self):
         return self.sellerInfo_text
 
+class alerts(models.Model):
+    alert_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    item_id = models.CharField(max_length=300)
+    item_name = models.CharField(max_length=300)
+    item_expiry = models.DateField()
+    item_request_count = models.BigIntegerField()
+    staff_notification = models.CharField(max_length=20)
+
 class HospDeptInventory(models.Model):
     item_id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     item_count = models.BigIntegerField()
